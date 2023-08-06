@@ -1,7 +1,7 @@
-*{
+/* *{
     outline: 1px solid limegreen !important;
     background: rgb(0 100 0 / 0.1) !important ;
-}
+} */
 
 @font-face {
     src: url("/fonts/Karla-VariableFont_wght.ttf");
